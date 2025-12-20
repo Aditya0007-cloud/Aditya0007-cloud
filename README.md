@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋 I'm Aditya Pareek
 
-<!--
-**Aditya0007-cloud/Aditya0007-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering student (2nd year)  
+💻 Java | Spring Boot | DSA  
+🚀 Building backend projects and strengthening problem-solving skills  
 
-Here are some ideas to get you started:
+### 🔨 Projects
+- Task Manager Backend (Spring Boot)
+- Student Management System (Java)
+- Java Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 GitHub
+https://github.com/Aditya0007-cloud
