@@ -9,7 +9,7 @@
 - Student Management System (Java)
 - Java Data Structures & Algorithms
 - url shortener backend
-- task manager backend
+- task manager jpa backend
 
 ### 📫 GitHub
 https://github.com/Aditya0007-cloud
