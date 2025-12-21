@@ -8,6 +8,8 @@
 - Task Manager Backend (Spring Boot)
 - Student Management System (Java)
 - Java Data Structures & Algorithms
+- url shortener backend
+- task manager backend
 
 ### 📫 GitHub
 https://github.com/Aditya0007-cloud
